@@ -1,0 +1,1 @@
+{"pageProps":{"tool":{"name":"Podman","slug":"podman","category":["Containerization"],"description":"Podman is a daemonless, open-source container engine for developing, managing, and running OCI containers on Linux.","website":"https://podman.io","repo":"https://github.com/containers/podman","logo":"/tools/podman","pricing":"Free","rating":4.5}},"__N_SSG":true}

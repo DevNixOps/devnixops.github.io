@@ -1,0 +1,1 @@
+{"pageProps":{"tool":{"name":"containerd","slug":"containerd","category":["Container Runtime","Containerization"],"description":"containerd is an industry-standard core container runtime used by Docker and Kubernetes.","website":"https://containerd.io","repo":"https://github.com/containerd/containerd","logo":"/tools/containerd","pricing":"Free","rating":4.4}},"__N_SSG":true}

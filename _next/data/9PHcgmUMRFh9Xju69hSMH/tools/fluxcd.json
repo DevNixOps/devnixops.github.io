@@ -1,0 +1,1 @@
+{"pageProps":{"tool":{"name":"FluxCD","slug":"fluxcd","category":["GitOps","Kubernetes-tools"],"description":"A GitOps operator for Kubernetes that automates deployment of container workloads using Git as the source of truth.","website":"https://fluxcd.io","repo":"https://github.com/fluxcd/flux","logo":"/tools/fluxcd","pricing":"Free","rating":4.6}},"__N_SSG":true}

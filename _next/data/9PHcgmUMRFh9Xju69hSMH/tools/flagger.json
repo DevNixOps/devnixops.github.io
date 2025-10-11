@@ -1,0 +1,1 @@
+{"pageProps":{"tool":{"name":"Flagger","slug":"flagger","category":["GitOps","Kubernetes-tools","Canary Releases"],"description":"Progressive delivery tool that automates canary deployments for Kubernetes.","website":"https://flagger.app","repo":"https://github.com/fluxcd/flagger","logo":"/tools/flagger","pricing":"Free","rating":4.4}},"__N_SSG":true}

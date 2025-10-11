@@ -1,0 +1,1 @@
+{"pageProps":{"tool":{"name":"k3s","slug":"k3s","category":["Kubernetes Distributions","Kubernetes-Lightweight","Kubernetes-Local-Development"],"description":"Lightweight Kubernetes distribution by Rancher, optimized for edge and IoT.","website":"https://k3s.io/","repo":"https://github.com/k3s-io/k3s","logo":"/tools/k3s","pricing":"Free","rating":4.6}},"__N_SSG":true}

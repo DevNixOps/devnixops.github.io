@@ -1,0 +1,1 @@
+{"pageProps":{"tool":{"name":"Clair","slug":"clair","category":["Security","Container Security","Vulnerability Scanning"],"description":"An open-source project for the static analysis of vulnerabilities in container images.","website":"https://github.com/quay/clair","repo":"https://github.com/quay/clair","logo":"/tools/clair","pricing":"Free","rating":4}},"__N_SSG":true}

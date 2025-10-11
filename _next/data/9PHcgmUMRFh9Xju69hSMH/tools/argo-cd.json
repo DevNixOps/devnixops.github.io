@@ -1,0 +1,1 @@
+{"pageProps":{"tool":{"name":"Argo CD","slug":"argo-cd","category":["GitOps","Kubernetes-tools"],"description":"Declarative, GitOps continuous delivery tool for Kubernetes that synchronizes desired and live state.","website":"https://argo-cd.readthedocs.io","repo":"https://github.com/argoproj/argo-cd","logo":"/tools/argo-cd.png","pricing":"Free","rating":4.5}},"__N_SSG":true}

@@ -1,0 +1,9 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: https://devopstools.unixarena.com
+
+# Sitemaps
+Sitemap: https://devopstools.unixarena.com/sitemap.xml
