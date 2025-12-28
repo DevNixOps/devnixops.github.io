@@ -77,7 +77,7 @@ If you have questions or want to suggest improvements, feel free to open an issu
 
 <p align="center">
   <a href="https://devnixops.unixarena.com">
-    <img src="assets/devnixops-logo.png" alt="DevNixOps Logo" width="180"/>
+    <img src="assets/devnixops-logo.jpg" alt="DevNixOps Logo" width="180"/>
   </a>
 </p>
 
