@@ -2,7 +2,7 @@
 
 Welcome to the **DevOps Tools Directory** — a comprehensive and curated collection of DevOps tools spanning CI/CD, Cloud Platforms, Configuration Management, Security, Observability, Kubernetes ecosystems, and more. This site helps engineers, teams, and learners explore, compare, and find the right tools to incorporate into their DevOps workflow.
 
-🔗 **Live Site:** https://devopstools.unixarena.com/  
+🔗 **Live Site:** https://devopstools.unixarena.com/  --- > Migrated to https://trovegrid.dev/
 📌 **Built with ❤️ by UnixArena**
 
 ---
